@@ -7,4 +7,4 @@ https://htmtopdf.herokuapp.com/ipynbviewer/temp/415992d96cc7cacfd29089b7254d0b1d
 https://htmtopdf.herokuapp.com/ipynbviewer/temp/415992d96cc7cacfd29089b7254d0b1d/Model.html?t=1728268424240 - Model.ipynb
 
 
-Please use the link above if the Jupyter Notebook does not render on GitHub
+Please use the links above if the Jupyter Notebook does not render on GitHub
